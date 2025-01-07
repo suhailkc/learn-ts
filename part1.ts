@@ -1,4 +1,15 @@
-// TypeScript is globally installed to run 'tsc finename.ts'
+// https://www.youtube.com/watch?v=NNEU6g5H6QUs
+// CONTENTS
+// - Infer Types (Implicit Types)
+// - Defining Types (Explicit Types)
+// - Interface
+// - Type
+// - Union
+// - Optional?
+// - Functions
+// - Named Types
+
+
 
 // // Infer Types OR Implicit Types = ts automatic detect cheyyunna types
 // let userName = 'Debug Media';
