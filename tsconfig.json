@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "ES2016",     // compile code to es2016
+    "module": "CommonJS",   // convert to which format. 
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,         // get warning when use 'any' type
+    "skipLibCheck": true,   // avoid conflict with ts of libraries
+    "rootDir": "./src",     // .ts file are in 'src' folder
+    "outDir": "./public"    // compiled code to 'public' folder
+  }
+}
